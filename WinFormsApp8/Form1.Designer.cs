@@ -97,7 +97,7 @@
             this.materialButton1.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialButton1.Name = "materialButton1";
             this.materialButton1.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.materialButton1.Size = new System.Drawing.Size(158, 36);
+            this.materialButton1.Size = new System.Drawing.Size(95, 36);
             this.materialButton1.TabIndex = 4;
             this.materialButton1.Text = "Generate";
             this.materialButton1.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
@@ -111,7 +111,7 @@
             this.listBox1.BorderColor = System.Drawing.Color.LightGray;
             this.listBox1.Depth = 0;
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.listBox1.Location = new System.Drawing.Point(470, 85);
+            this.listBox1.Location = new System.Drawing.Point(468, 85);
             this.listBox1.MouseState = MaterialSkin.MouseState.HOVER;
             this.listBox1.Name = "listBox1";
             this.listBox1.SelectedIndex = -1;
